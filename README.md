@@ -1,5 +1,5 @@
 # my_udacity_deep_learning_solutions
-Some of the udacity deep learning nanodegree exercises solved with swift and tensorflow 2
+Some of the udacity deep learning nanodegree exercises solved with swift
 
 Udacity Deep Learning Nanodegree: https://eu.udacity.com/course/deep-learning-nanodegree--nd101
 
